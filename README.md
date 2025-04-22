@@ -1,3 +1,10 @@
+# 📊 Análisis de rendimiento de tiendas - Alura Store
+
+Este proyecto tiene como objetivo analizar el rendimiento de las cuatro tiendas de la cadena **Alura Store**, con el fin de tomar una decisión informada sobre cuál tienda debería vender el Sr. Juan para iniciar un nuevo emprendimiento.
+
+## 🧠 Objetivo del proyecto
+
+Determinar, a partir de datos de ventas, calificaciones y productos, cuál de las tiendas presenta un menor desempeño, y por tanto es la más viable para ser vendida.
 
 ## 📌 Datos analizados
 
