@@ -37,3 +37,6 @@ Se recomienda la **venta de la Tienda 4**, ya que refleja un desempeño inferior
 - pandas
 - matplotlib / seaborn (para visualizaciones)
 - Jupyter Notebook
+
+## ✨ Próximamente
+Mapas de calor para latiitud y longitud de las transacciones de las ventas.
